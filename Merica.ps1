@@ -1,4 +1,7 @@
 # Make 'Merica Flag! -tg
+# Run from remote shell:
+# Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://github.com/BattleAxe454/MyFirstRepo/raw/main/Merica.ps1'))
+
 function FlagLine1 {
     #1
     Write-Host "|" -ForegroundColor Black -NoNewline
